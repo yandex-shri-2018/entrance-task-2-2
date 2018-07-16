@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_temperature</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v1-2-1-home-dashboard" transform="translate(-464.000000, -269.000000)">
+            <rect fill="#F8F8F8" x="0" y="0" width="1366" height="768"></rect>
+            <g id="status" transform="translate(39.000000, 194.000000)">
+                <g id="Group" transform="translate(1.000000, 41.000000)">
+                    <g id="Widget" transform="translate(410.000000, 20.000000)">
+                        <g id="icon_temperature" transform="translate(14.000000, 14.000000)">
+                            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                            <path d="M14.0003489,14.76 L14.0003489,3.5 C14.0003489,2.11928813 12.8810608,1 11.5003489,1 C10.119637,1 9.00034891,2.11928813 9.00034891,3.5 L9.00034891,14.76 C7.35223452,15.8611927 6.61873572,17.911099 7.19410587,19.8079004 C7.76947602,21.7047019 9.51820196,23.0016574 11.5003489,23.0016574 C13.4824959,23.0016574 15.2312218,21.7047019 15.806592,19.8079004 C16.3819621,17.911099 15.6484633,15.8611927 14.0003489,14.76 Z" id="Shape" stroke-opacity="0.4" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <circle id="Oval-2" fill-opacity="0.1" fill="#333333" fill-rule="nonzero" cx="11.5" cy="18.5" r="3.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

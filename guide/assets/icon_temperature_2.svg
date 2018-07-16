@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_temperature_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v1-2-1-home-dashboard" transform="translate(-925.000000, -365.000000)">
+            <rect fill="#F8F8F8" x="0" y="0" width="1366" height="768"></rect>
+            <g id="scenarios" transform="translate(696.000000, 195.000000)">
+                <g id="Widget-Copy-7" transform="translate(215.000000, 156.000000)">
+                    <g id="icon_temperature" transform="translate(14.000000, 14.000000)">
+                        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                        <g id="thermometer" transform="translate(7.000000, 1.000000)">
+                            <path d="M7,13.76 L7,2.5 C7,1.11928813 5.88071187,0 4.5,0 C3.11928813,-2.22044605e-16 2,1.11928813 2,2.5 L2,13.76 C0.351885607,14.8611927 -0.381613186,16.911099 0.19375696,18.8079004 C0.769127106,20.7047019 2.51785305,22.0016574 4.5,22.0016574 C6.48214695,22.0016574 8.23087289,20.7047019 8.80624304,18.8079004 C9.38161319,16.911099 8.64811439,14.8611927 7,13.76 Z" id="Shape" stroke="#F5A623" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <circle id="Oval-2" fill="#FFD93E" fill-rule="nonzero" cx="4.5" cy="17.5" r="3.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
