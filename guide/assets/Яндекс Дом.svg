@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="27px" viewBox="0 0 108 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Яндекс Дом</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v1-2-1-home-dashboard" transform="translate(-40.000000, -105.000000)">
+            <rect fill="#F8F8F8" x="0" y="0" width="1366" height="768"></rect>
+            <g id="header" transform="translate(0.000000, 72.000000)" font-family="YandexSansLogotype-Light, Yandex Sans Logotype" font-size="31" font-weight="300">
+                <text id="Яндекс-Дом">
+                    <tspan x="40" y="56" fill="#FF0000">Я</tspan>
+                    <tspan x="53.082" y="56" fill="#333333">ндекс Дом</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

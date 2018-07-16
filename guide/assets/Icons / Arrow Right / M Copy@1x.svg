@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / Arrow Right / M Copy@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.5,11.7269472 C7.11373069,11.7269472 6.87650307,11.5723735 6.5647546,11.2398418 L1.17776397,5.49371843 C0.85741201,5.15200968 0.85741201,4.59799032 1.17776397,4.25628157 C1.49811593,3.91457281 2.01750907,3.91457281 2.33786103,4.25628157 L7.5,9.76256313 L12.662139,4.25628157 C12.9824909,3.91457281 13.5018841,3.91457281 13.822236,4.25628157 C14.142588,4.59799032 14.142588,5.15200968 13.822236,5.49371843 C13.822236,5.49371843 10.2436893,9.31083491 8.45441599,11.2193931 C8.13627732,11.5587411 7.88626931,11.7269472 7.5,11.7269472 Z" id="path-1"></path>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v1-3-1-home-dashboard-footer" transform="translate(-1283.000000, -608.000000)">
+            <rect fill="#F8F8F8" x="0" y="0" width="1366" height="829"></rect>
+            <g id="favorites" transform="translate(40.000000, 595.000000)" opacity="0.3">
+                <g id="Icons-/-Arrow-Right-/-M-Copy" transform="translate(1247.500000, 20.000000) scale(-1, 1) translate(-1247.500000, -20.000000) translate(1240.000000, 12.000000)">
+                    <g id="Direct-/-Icons-/-Arrow-Right-/-M">
+                        <rect id="box" x="0" y="0" width="15" height="16"></rect>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="icon_arrow-right_m" fill="#000000" fill-rule="nonzero" transform="translate(7.500000, 7.863474) scale(-1, 1) rotate(-270.000000) translate(-7.500000, -7.863474) " xlink:href="#path-1"></use>
+                        <g id="Color-/-Black" mask="url(#mask-2)" fill="#333333">
+                            <g transform="translate(-76.875000, -57.000000)" id="#333333">
+                                <polygon points="0 0 169 0 169 130 0 130"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

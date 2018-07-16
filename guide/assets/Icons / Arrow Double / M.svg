@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / Arrow Double / M</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,1 C8.4120206,1 8.67869581,1.16820615 9.01804372,1.50755406 L14.7437184,7.23322877 C15.0854272,7.57493753 15.0854272,8.12895688 14.7437184,8.47066564 C14.4020097,8.8123744 13.8479903,8.8123744 13.5062816,8.47066564 L8,2.96438407 L2.49371843,8.47066564 C2.15200968,8.8123744 1.59799032,8.8123744 1.25628157,8.47066564 C0.914572811,8.12895688 0.914572811,7.57493753 1.25628157,7.23322877 L7.00240491,1.48710543 C7.33493661,1.15457373 7.5879794,1 8,1 Z M8,7 C8.4120206,7 8.67869581,7.16820615 9.01804372,7.50755406 L14.7437184,13.2332288 C15.0854272,13.5749375 15.0854272,14.1289569 14.7437184,14.4706656 C14.4020097,14.8123744 13.8479903,14.8123744 13.5062816,14.4706656 L8,8.96438407 L2.49371843,14.4706656 C2.15200968,14.8123744 1.59799032,14.8123744 1.25628157,14.4706656 C0.914572811,14.1289569 0.914572811,13.5749375 1.25628157,13.2332288 L7.00240491,7.48710543 C7.33493661,7.15457373 7.5879794,7 8,7 Z" id="path-1"></path>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v1-2-1-home-dashboard" transform="translate(-540.000000, -538.000000)">
+            <rect fill="#F8F8F8" x="0" y="0" width="1366" height="768"></rect>
+            <g id="status" transform="translate(39.000000, 195.000000)" opacity="0.3">
+                <g id="Group" transform="translate(1.000000, 40.000000)">
+                    <g id="Widget-Copy-3" transform="translate(410.000000, 290.000000)">
+                        <g id="Group-5" transform="translate(90.000000, 13.000000)">
+                            <g id="Icons-/-Arrow-Double-/-M">
+                                <g id="Direct-/-Icons-/-Arrow-Double-/-M">
+                                    <rect id="box" x="0" y="0" width="16" height="16"></rect>
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <use id="icon_arrow-double_m" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                    <g id="Color-/-Black" mask="url(#mask-2)" fill="#333333">
+                                        <g transform="translate(-82.000000, -57.000000)" id="#333333">
+                                            <polygon points="0 0 180 0 180 130 0 130"></polygon>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
