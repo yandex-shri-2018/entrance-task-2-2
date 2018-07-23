@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 5 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v1-2-4-home-floor" transform="translate(-801.000000, -397.000000)" fill="#333333" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(368.000000, 173.000000)">
+                <g id="Group-4">
+                    <g id="round" transform="translate(207.000000, 98.000000)">
+                        <path d="M226.311431,131.943579 L231.036156,126.590855 C231.371306,126.211158 231.527735,126.113005 231.715788,126.048431 C231.903841,125.983856 232.096159,125.983856 232.284212,126.048431 C232.472265,126.113005 232.628694,126.211158 232.963844,126.590855 L237.688569,131.943579 C238.10381,132.414014 238.10381,133.176739 237.688569,133.647174 C237.489162,133.873085 237.21871,134 236.936707,134 L227.063293,134 C226.476053,134 226,133.460672 226,132.795376 C226,132.47589 226.112025,132.169489 226.311431,131.943579 Z" id="Rectangle-5-Copy"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
